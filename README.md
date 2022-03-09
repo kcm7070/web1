@@ -8,3 +8,7 @@
 
 >NodeJS RabbitMQ 연동\
 >[유튜브 Foorogrammer](https://www.youtube.com/watch?v=cX9ziTQiRns)
+
+>메일서버 구축\
+>[유튜브](https://www.youtube.com/watch?v=gRVaU80_kiM)
+
